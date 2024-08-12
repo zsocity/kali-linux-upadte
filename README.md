@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 git clone https://github.com/zsocity/kali-linux-upadte.git
 cd kali-linux-upadte
 chmod +x setup.sh
-./install.sh
+./setup.sh
 
 
 
