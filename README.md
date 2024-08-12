@@ -14,15 +14,6 @@ To use this script, simply clone this repository and run the script on your Kali
 - **Root privileges** or **sudo access**
 
 ### 📥 Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-📋 Run the Installation Script
-bash
-Copy code
-chmod +x install.sh
-./install.sh
 🧩 What This Script Does
 This script installs a variety of tools and packages:
 
@@ -57,5 +48,15 @@ sudo apt-get update && sudo apt-get upgrade
 This script is developed and maintained by Bablu Islam Biever.
 
 📝 License
+
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+```bash
+git clone https://github.com/zsocity/kali-linux-upadte.git
+cd kali-linux-upadte
+chmod +x setup.sh
+./install.sh
+
+
+
 
